@@ -5,6 +5,7 @@
     border-radius: 4px;
     -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
     box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    margin: auto;
 }
 
 .panel-primary {
@@ -33,6 +34,8 @@ body {
     background-color: #375a7f;
     border-color: #375a7f;
     text-align: center;
+    line-height: 30px;
+    height: 30px;
 }
 
 .panel-body {
