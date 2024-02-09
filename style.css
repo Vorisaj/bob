@@ -1,0 +1,46 @@
+.panel {
+    margin-bottom: 21px;
+    background-color: #303030;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+
+.panel-primary {
+    border-color: #375a7f;
+}
+
+.text-center {
+    text-align: center;
+}
+
+body {
+    background-color: #222;
+}
+
+body {
+    font-family: Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    line-height: 1.42857143;
+    color: #fff;
+}
+
+.panel-title {
+    margin-top: 0;
+    font-size: 17px;
+}
+
+.panel-body {
+    padding: 15px;
+}
+
+h1 {
+    padding-bottom: 9.5px;
+    margin: 42px 0 21px;
+    border-bottom: 1px solid transparent;
+}
+
+.h1, h1 {
+    font-size: 39px;
+}
